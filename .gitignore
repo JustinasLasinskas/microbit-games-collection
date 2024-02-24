@@ -1,0 +1,19 @@
+# Microbit project files
+*.uf2
+
+# Compiled output
+/build
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+/node_modules/
+/microbit/
+/archive/
+
+
+# Environment files
+/venv/
+.env
