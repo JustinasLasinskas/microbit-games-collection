@@ -17,3 +17,7 @@
 # Environment files
 /venv/
 .env
+
+__pycache__/
+
+main.hex
